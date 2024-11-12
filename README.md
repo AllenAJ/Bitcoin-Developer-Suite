@@ -1,4 +1,4 @@
-Bitstack is a Developer Suite for Bitcoin Developers in the Babylon & Rooch Ecosystem.
+Bitstack is a Developer Suite for Bitcoin Developers in the Bitcoin & Fractal Ecosystem.
 
 Bitcoin developers face significant challenges when building dapps due to the lack of accessible, adaptable tooling similar to what’s available for networks like Ethereum and Solana.
 
