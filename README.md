@@ -12,8 +12,10 @@ Part 1: b/WalletConnect
 
 Part 2: Bitcoin Blinks
 Turn any Bitcoin Action into a shareable, metadata-rich link in Twitter.
-![Screenshot at Nov 08 10-12-55.png]([https://i.ibb.co/jWb5wWr/Screenshot-at-Nov-12-12-57-55.png](https://i.ibb.co/jWb5wWr/Screenshot-at-Nov-12-12-57-55.png))
+![Screenshot at Nov 08 10-11-57.png](https://i.ibb.co/jWb5wWr/Screenshot-at-Nov-12-12-57-55.png)
+
+![Screenshot at Nov 08 10-12-55.png]([https://i.ibb.co/jWb5wWr/Screenshot-at-Nov-12-12-57-55.png]())
 
 Workflow:
-![Screenshot at Nov 08 10-13-43.png]([https://i.ibb.co/B4xjR0h/Screenshot-at-Nov-12-12-55-46.png](https://i.ibb.co/B4xjR0h/Screenshot-at-Nov-12-12-55-46.png))
+![Screenshot at Nov 08 10-13-43.png](https://i.ibb.co/B4xjR0h/Screenshot-at-Nov-12-12-55-46.png)
 
